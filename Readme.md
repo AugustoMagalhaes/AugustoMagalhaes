@@ -1,7 +1,7 @@
-# 💫About Me :
-Estou atualmente em transição de carreira para a área de Frontend
+# 💫Quem sou eu:
+Formado em Ciências Sociais pela UNESP de Araraquara, atualmente estou à procura da minha primeira oportunidade como desenvolvedor Frontend. Tenho interesses em desenvolvimento mobile, ambientes linux e cloud computing.
 
-## 🌐Socials
+## 🌐Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-moreira-magalhaes/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/augustommg)
 
