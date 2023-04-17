@@ -1,5 +1,5 @@
 # 💫Quem sou eu:
-Formado em Ciências Sociais pela UNESP de Araraquara, atualmente estou à procura da minha primeira oportunidade como desenvolvedor Frontend. Tenho interesses em desenvolvimento mobile, ambientes linux e cloud computing.
+Formado em Ciências Sociais pela UNESP de Araraquara, em Desenvolvimento Web Fullstack pela Trybe e atualmente graduando em Análise e Desenvolvimento de Sistemas pela UNA/Live. Analista de Desenvolvimento Júnior na CSD BR onde trabalho como desenvolvedor fullstack, utilizando as tecnologias Clojure, ClojureScript, Re-frame, Reagent, Selenium e Python para análise de dados e automação.
 
 ## 🌐Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-moreira-magalhaes/)
