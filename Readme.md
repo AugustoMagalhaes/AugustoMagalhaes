@@ -5,7 +5,7 @@ Formado em Ciências Sociais pela UNESP de Araraquara, em Desenvolvimento Web Fu
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-moreira-magalhaes/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/augustommg)
 
-# 💻Tech Stack]
+# 💻Tech Stack
 
 ### Linguagens
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![ClojureScript](https://img.shields.io/badge/-ClojureScript-4A154B?style=for-the-badge&logo=Clojure&logoColor=white&labelColor=4A154B)
